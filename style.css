@@ -1,11 +1,12 @@
-h1 {
+h1, h2 {
 	color: green;
-	font-size: 40px;
 	font-family: Helvetica neue, Arial;
 }
 
-h2 {
-	color: green;
+h1 {
 	font-size: 25px;
-	font-family: Helvetica neue, Arial;
+}
+
+h2 {
+	font-size: 25px;
 }
